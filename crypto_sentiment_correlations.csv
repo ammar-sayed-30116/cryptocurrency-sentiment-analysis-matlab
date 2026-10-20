@@ -1,0 +1,7 @@
+SentimentFeature,CorrelationWithNextChange
+min_Sentiment,0.008486214854079
+GroupCount,0.00279777398060437
+mean_Sentiment,0.00251669726107006
+median_Sentiment,0.00166582181853456
+max_Sentiment,-0.00743655197438665
+var_Sentiment,-0.00809217220122957
